@@ -1,4 +1,4 @@
-## Hi there 👋
+## https://tenor.com/pt-BR/view/so-gif-27368160
 
 <!--
 **Akurui/Akurui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
