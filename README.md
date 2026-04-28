@@ -1,4 +1,5 @@
-## <div class="tenor-gif-embed" data-postid="27368160" data-share-method="host" data-aspect-ratio="1.20301" data-width="100%"><a href="https://tenor.com/view/so-gif-27368160">So Sticker</a>from <a href="https://tenor.com/search/so-stickers">So Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## <img width="121" height="100" alt="so" src="https://github.com/user-attachments/assets/78397806-92f4-41ff-a823-a20e4ea7af23" />
+
 
 <!--
 **Akurui/Akurui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
