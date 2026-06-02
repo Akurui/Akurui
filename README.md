@@ -1,11 +1,9 @@
+
 <h2 align="left">Hi 👋! My name is Iago and I'm a Lazy <br>programmer from Jundiaí</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akurui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akurui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -30,7 +28,7 @@
 </div>
 
 ###
-<img width="640" height="360" alt="future-gohan-gohdan" src="https://github.com/user-attachments/assets/0763037b-e2b9-46f5-85bb-2615b3acecce" />
+<img width="634" height="640" alt="gokublack-dbs" src="https://github.com/user-attachments/assets/99d1d120-ca6a-4dad-b67c-6bc4e97a96ba" />
 
 <br clear="both">
 
