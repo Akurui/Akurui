@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Iago and I'm a Lazy <br>programmer from Jundiaí</h2>
+<h2 align="left">Hi 👋! My name is Iago and I'm a Focused <br>programmer from Jundiaí</h2>
 
 ###
 
@@ -28,7 +28,6 @@
 </div>
 
 ###
-<img width="634" height="640" alt="gokublack-dbs" src="https://github.com/user-attachments/assets/99d1d120-ca6a-4dad-b67c-6bc4e97a96ba" />
 
 <br clear="both">
 
